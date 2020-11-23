@@ -1,1 +1,1 @@
-# cits2002-project1
+Incomplete cpu simulation with a limited time quantum for each process.
